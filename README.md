@@ -15,6 +15,7 @@ The implementation uses the VGG16 pre-trained model ([VGG16](https://keras.io/ap
     git clone https://github.com/jsarneja/dog_breed_classifier_using_CNN.git
     ```
 * Open the jupyter notebook `dog_app.ipynb`
+    * Some additional datasets would be needed. Relevant links are provided in the jupyter notebook
 
 ## Contributing
 ---
