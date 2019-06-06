@@ -1,5 +1,5 @@
 # Dog Breed classifier using CNN
-We design a dog breed classifier using a convolutional neural network (CNN). We first design a dog classifier from scratch and later show that the accuracy of classification is significantly bumped up by using transfer learning using a pre-trained model which is pre-trained on large set of varied images (including dogs). Finally, we put together various pieces to produce an app that firstly detects if the image is of a human or a dog or none. Then if a dog is found, it would predict the breed of the dog or for a human, it tells the closest dog breed resembling the human
+We design a dog breed classifier using a convolutional neural network (CNN). We first design a dog classifier from scratch and later show that the accuracy of classification is significantly bumped up by using transfer learning based on a pre-trained model on a large set of varied images (including dogs). Finally, we put together various pieces to produce an app that firstly detects if the image is of a human or a dog or none. Then if a dog is detected, it would predict the breed of the dog or else if a human is detected, it tells the closest dog breed resembling the human
 
 ## Documentation
 
